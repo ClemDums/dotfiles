@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cdumont@gmail.com
+	name = Clemence Dumont
